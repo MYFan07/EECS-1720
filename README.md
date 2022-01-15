@@ -1,2 +1,3 @@
-# EECS 1720 Study
- EECS 1720
+<p>
+This is My EECS 1720 individual project
+</P>
