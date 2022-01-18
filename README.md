@@ -3,8 +3,8 @@
 Hello, everyone, welcom 👋
 
 - :orange_book: This is my EECS 1720 Repo
-- :hammer: 
-- :ram: 
-- :meat_on_bone: 
+- :hammer: It includes 100 days of code
+- :ram: Individual Project
+- :meat_on_bone: Group Project
 
 
