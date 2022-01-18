@@ -7,6 +7,6 @@ Hello, everyone, welcome~
 - :meat_on_bone: Group Project
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z2108335219&show_icons=true&theme=radical)
+
 
 
