@@ -2,7 +2,7 @@
 
 Hello, everyone, welcom 👋
 
-- :pink book: This is my EECS 1720 Repo
+- :orange book: This is my EECS 1720 Repo
 - :hammer: 
 - :ram: 
 - :meat_on_bone: 
