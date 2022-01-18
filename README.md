@@ -2,9 +2,9 @@
 
 Hello, everyone, welcom 👋
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+- :pink_book: This is my EECS 1720 Repo
+- :hammer: 
+- :ram: 
+- :meat_on_bone: 
 
 
