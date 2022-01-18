@@ -10,3 +10,5 @@ This is the processing.py.
 https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/
 Free codestudy interent.
 </P>
+https://app.creately.com/diagram/oAgcyLPxfOC/edit  
+Design interent
