@@ -1,7 +1,4 @@
-<p>
-Qiyue Zhang
-</P>
-<p>
-This is My EECS 1720 individual study record.
-</P>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=qiyueeer&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+————————————————
+
 
