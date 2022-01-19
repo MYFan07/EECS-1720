@@ -1,5 +1,5 @@
 ![Qiyueeers Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Qiyueeer&show_icons=true&count_private=true&theme=gotham)
-
+[![Qiyueeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qiyueeer)](https://github.com/anuraghazra/github-readme-stats)
 
 Hello, everyone, welcome~ 
 
